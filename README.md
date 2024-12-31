@@ -76,7 +76,7 @@ idea导入源码空间站顶目教程说明(Vindows版)-ssm篇：
 
 http://mtw.so/5MHvZq 
 
-源码地址：[http://codegym.top](http://codegym.top/)
+源码地址：[http://www.codegym.top](http://www.codegym.top/)
 
 
 
